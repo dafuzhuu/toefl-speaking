@@ -1,4 +1,12 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: TOEFL Speaking
 theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
