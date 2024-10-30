@@ -6,6 +6,8 @@ draft = false
 
 {{< youtube zGiJ9XQfAuI >}}
 
+## Practice 1
+
 > Do you prefer write by hand or type on a computer?
 
 对于prefer的问题，用比较级可以说的更流畅，比如我的回答中
@@ -16,7 +18,7 @@ After we have practiced using the keyboard, it will become very fast to ... eh .
 
 it will become faster comparing with writing on paper
 
----
+## Pracice 2
 
 进入 Task 2
 
@@ -40,7 +42,7 @@ The man expresses his opinion about the article in the school newspaper. Explain
 
 另外，忘记模板，回答问题。空隙用文章信息补充
 
----
+## Practice 3
 
 > The university library has a large collection of films on videos ...
 
