@@ -10,3 +10,10 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+
+params:
+  homeInfoParams:
+    Title: Cambly Toefl Speaking
+    Content: Welcome to my website!
+
+  ShowToc: true

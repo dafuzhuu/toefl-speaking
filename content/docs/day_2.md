@@ -10,7 +10,7 @@ draft = false
 
 对于prefer的问题，用比较级可以说的更流畅，比如我的回答中
 
-After we have practiced using the keyboard, it will become very fast to ... eh ... type on a comnputer, and will save a lot of time
+After we have practiced using the keyboard, it will become very fast to ... eh ... type on a computer, and will save a lot of time
 
 可以说
 
