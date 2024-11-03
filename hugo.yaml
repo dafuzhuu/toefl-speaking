@@ -3,7 +3,6 @@ languageCode: en-us
 title: TOEFL Speaking
 theme: 
   - PaperMod
-  - hugo-shortcode-roneo-collection
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -19,3 +18,9 @@ params:
     Content: Welcome to my website!
 
   ShowToc: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/

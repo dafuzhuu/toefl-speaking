@@ -2,34 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/day_7/</loc>
-    <lastmod>2024-11-03T19:09:41+08:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-11-03T21:30:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2024-11-03T19:09:41+08:00</lastmod>
+    <loc>http://localhost:1313/categories/practice/</loc>
+    <lastmod>2024-11-03T21:30:32+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/practice/</loc>
+    <lastmod>2024-11-03T21:30:32+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/practice/task_3/</loc>
+    <lastmod>2024-11-03T21:30:32+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-03T21:30:32+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/conclusion/</loc>
+    <lastmod>2024-11-03T21:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/day_7/</loc>
     <lastmod>2024-11-03T19:09:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/day_6/</loc>
+    <loc>http://localhost:1313/notes/</loc>
+    <lastmod>2024-11-03T19:09:41+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/notes/</loc>
+    <lastmod>2024-11-03T19:09:41+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/day_6/</loc>
     <lastmod>2024-11-02T21:26:07+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/day_5/</loc>
+    <loc>http://localhost:1313/notes/day_5/</loc>
     <lastmod>2024-11-01T20:10:14+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/day_4/</loc>
+    <loc>http://localhost:1313/notes/day_4/</loc>
     <lastmod>2024-10-31T20:10:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/day_3/</loc>
+    <loc>http://localhost:1313/notes/day_3/</loc>
     <lastmod>2024-10-30T22:36:58+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/day_2/</loc>
+    <loc>http://localhost:1313/notes/day_2/</loc>
     <lastmod>2024-10-28T21:50:54+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/day_1/</loc>
+    <loc>http://localhost:1313/notes/day_1/</loc>
     <lastmod>2024-10-27T20:00:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

@@ -6,6 +6,21 @@
     <description>Recent content in Categories on TOEFL Speaking</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 03 Nov 2024 21:30:32 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practice</title>
+      <link>http://localhost:1313/categories/practice/</link>
+      <pubDate>Sun, 03 Nov 2024 21:30:32 +0800</pubDate>
+      <guid>http://localhost:1313/categories/practice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/categories/notes/</link>
+      <pubDate>Sun, 03 Nov 2024 19:09:41 +0800</pubDate>
+      <guid>http://localhost:1313/categories/notes/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
