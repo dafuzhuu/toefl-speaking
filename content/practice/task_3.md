@@ -5,6 +5,8 @@ draft = false
 categories = ['practice']
 +++
 
+Audio stored in [opendrive](https://www.opendrive.com/files/NDBfODA3OTg3MF9XSjd4dQ)
+
 | 题号 | 题目 | 我的录音 | 时间 | 
 | --- | --- | --- | --- | --- |
 | TPO 61 | Diffusion effect in health studies | {{< audio "https://od.lk/s/NDBfMTA5MDU0Mjg2Xw/tpo61.mp3" >}}<br>{{< audio "https://od.lk/s/NDBfMTA5MDU0Mjg1Xw/tpo61_2.mp3" >}} | 11.3 |
