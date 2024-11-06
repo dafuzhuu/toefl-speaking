@@ -2,6 +2,7 @@
 title = 'Day 8'
 date = 2024-11-05T22:37:18+08:00
 draft = false
+categories = ['notes']
 +++
 
 {{< youtube LaQH3IkPZCo >}}
