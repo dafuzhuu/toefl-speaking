@@ -5,6 +5,8 @@ draft = false
 categories = ['practice']
 +++
 
+Audio stored in [opendrive](https://www.opendrive.com/files/NDBfODA4MTMxOF9nNndnaw)
+
 | 题号 | 我的录音 | 时间 | 
 | --- | --- | --- | --- | --- |
 | TPO 60 | {{< audio "https://od.lk/s/NDBfMTA5MTI2MDQ3Xw/zzzzdf_Official60Task1_202411062142025170.mp3" >}} | 11.6 |
