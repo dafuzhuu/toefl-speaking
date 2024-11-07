@@ -27,3 +27,8 @@ Audio stored in [opendrive](https://www.opendrive.com/files/NDBfODA3OTg3MF9XSjd4
 | TPO 72 | Rational ignorance | {{< audio "https://od.lk/s/NDBfMTA5MDgyMjY5Xw/tpo72.m4a" >}} | 11.5 |
 | TPO 70 | Enclothed cognition | {{< audio "https://od.lk/s/NDBfMTA5MDgyNzI4Xw/tpo70.m4a" >}} | 11.5 |
 | TPO 69 | Brand revival | {{< audio "https://od.lk/s/NDBfMTA5MDgyOTkzXw/tpo69.mp3" >}} | 11.5 |
+| TPO 68 | Negative Phototaxis | {{< audio "https://od.lk/s/NDBfMTA5MTgzODIzXw/zzzzdf_Official68Task3_202411072040416600.mp3" >}} | 11.7 |
+| TPO 67 | Nomadic Phase | {{< audio "https://od.lk/s/NDBfMTA5MTg2NzgzXw/tpo67_task3.m4a" >}} | 11.7 |
+| TPO 66 | Commitment Device | {{< audio "https://od.lk/s/NDBfMTA5MTg2Nzc4Xw/tpo66_task3.m4a" >}} | 11.7 |
+| TPO 65 | Goal Displacement | {{< audio "https://od.lk/s/NDBfMTA5MTg4NTYzXw/tpo65_task3.m4a" >}}<br>{{< audio "https://od.lk/s/NDBfMTA5MTg5MDQzXw/tpo65_task3%282%29.m4a" >}} | 11.7 |
+| TPO 64 | Paradox of choices | {{< audio "https://od.lk/s/NDBfMTA5MTkxNDg4Xw/tpo64_task3%281%29.m4a" >}} | 11.7 |
