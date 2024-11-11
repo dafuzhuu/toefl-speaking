@@ -1,7 +1,7 @@
 +++
 title = 'Day 1'
 date = 2024-10-27T20:00:25+08:00
-draft = false
+draft = true
 categories = ['notes']
 +++
 
